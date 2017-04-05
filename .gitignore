@@ -1,4 +1,20 @@
 *.py[cod]
 .*.swp
+.*.swo
 venv/
+.DS_Store
+cli/help.txt
+cli/help.md
+cli/help_clean.md
+.swp
+pybuild
+cumulusci.egg-info
+build/
+dist/
+.eggs/
+.idea/
+.tox/
+tags
+.vscode/
+.cache/
 
